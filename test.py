@@ -1,5 +1,5 @@
 import urllib.parse
 
-f = 'Pandas count values in a column of type list'
+f = '20. Pandas - value_counts - multiple columns, all columns and bad data'
 ff = urllib.parse.quote_plus(f)
 print(ff.replace('+', '_'))
