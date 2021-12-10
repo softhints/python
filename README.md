@@ -3,7 +3,12 @@ Jupyter notebooks and datasets for the interesting pandas/python/data science vi
 
 # Who is this repo for?
 
-For people who are interested in data science, data analysis and finding interesting relation for data. This repository is related to site: https://blog.softhints.com/tag/pandas/ where you can find more interesting videos. The youtube channel is: 
+For people who are interested in data science, data analysis and finding interesting relation for data. This repository is related to site: https://blog.softhints.com/tag/pandas/ where you can find more interesting videos. 
+
+New website dedicated to Pandas and Data Science was started: https://datascientyst.com/. It has better organization and covers topics in many areas.
+
+
+The youtube channel is: 
 
 https://www.youtube.com/channel/UCg5rvP_D735oSBatdcH5ZFA
 
