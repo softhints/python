@@ -1,6 +1,10 @@
 # python
 Jupyter notebooks and datasets for the interesting pandas/python/data science video series.
 
+# Contribution
+
+Feel free to contribute or suggest new ideas. [Improvements](mailto:grouprivl@gmail.com?subject=[GitHub]%20Source%20Python)
+
 # Who is this repo for?
 
 For people who are interested in data science, data analysis and finding interesting relation for data. This repository is related to site: https://blog.softhints.com/tag/pandas/ where you can find more interesting videos. 
