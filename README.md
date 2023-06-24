@@ -9,7 +9,11 @@ You can find nice guide about GitHub contribution: [Step-by-step guide to contri
 
 # Who is this repo for?
 
-For people who are interested in data science, data analysis and finding interesting relation for data. This repository is related to site: https://blog.softhints.com/tag/pandas/ where you can find more interesting videos. 
+For people who are interested in data science, data analysis and finding interesting relation for data. This repository is related to sites: 
+* [DataScientYst.com - Data Science Tutorials, Exercises, Guides, Videos with Python and Pandas](https://datascientyst.com/)
+* [SoftHints.com - Python, Pandas, Linux, SQL Tutorials and Guides](https://softhints.com/)
+
+where you can find more interesting articles. 
 
 New website dedicated to Pandas and Data Science was started: https://datascientyst.com/. It has better organization and covers topics in many areas.
 
