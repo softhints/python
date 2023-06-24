@@ -22,11 +22,8 @@ New website dedicated to Pandas and Data Science was started: https://datascient
 
 The youtube channel is: 
 
-https://www.youtube.com/channel/UCg5rvP_D735oSBatdcH5ZFA
-
-# Popular Videos
-
-https://softhints.com/youtube-videos.html
+* [SoftHints Youtube](https://www.youtube.com/@softhints/)
+* [Popular Videos](https://www.youtube.com/@softhints/videos)
 
 # Latest Videos
 
