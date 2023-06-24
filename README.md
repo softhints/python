@@ -5,11 +5,13 @@ Jupyter notebooks and datasets for the interesting pandas/python/data science vi
 
 Feel free to contribute or suggest new ideas. To get in touch write on [mail](mailto:grouprivl@gmail.com?subject=[GitHub]%20Source%20Python).
 
-You can find nice guide about GitHub contribution: [Step-by-step guide to contributing on GitHub](https://www.dataschool.io/how-to-contribute-on-github/)
+You can find nice guide about GitHub contribution: 
+* [Contributing to projects](https://docs.github.com/en/get-started/quickstart/contributing-to-projects)
+* [Step-by-step guide to contributing on GitHub](https://www.dataschool.io/how-to-contribute-on-github/)
 
 # Who is this repo for?
 
-For people who are interested in data science, data analysis and finding interesting relation for data. This repository is related to sites: 
+For people who are interested in data science, data analysis and finding interesting insights for data. This repository is related to sites: 
 * [DataScientYst.com - Data Science Tutorials, Exercises, Guides, Videos with Python and Pandas](https://datascientyst.com/)
 * [SoftHints.com - Python, Pandas, Linux, SQL Tutorials and Guides](https://softhints.com/)
 
