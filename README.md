@@ -3,7 +3,9 @@ Jupyter notebooks and datasets for the interesting pandas/python/data science vi
 
 # Contribution
 
-Feel free to contribute or suggest new ideas. [Improvements](mailto:grouprivl@gmail.com?subject=[GitHub]%20Source%20Python)
+Feel free to contribute or suggest new ideas. 
+For getting in touch you can write us on [mail](mailto:grouprivl@gmail.com?subject=[GitHub]%20Source%20Python).
+You can find nice guide about GitHub contribution: [Step-by-step guide to contributing on GitHub](https://www.dataschool.io/how-to-contribute-on-github/0
 
 # Who is this repo for?
 
